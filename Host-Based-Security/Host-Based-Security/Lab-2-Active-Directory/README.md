@@ -1,4 +1,4 @@
-# Lab 2 – Active Directory Deployment & Identity Security
+# Lab 2 – Host-Based Security (Active Directory & Identity Management)
 
 ## Objective
 The objective of this lab was to deploy and secure a Windows Active Directory environment.
